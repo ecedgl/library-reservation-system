@@ -1,6 +1,6 @@
 Library Reservation System – CMPE331 Group Project
 
-This is a full-stack web application developed for the CMPE331 Software Engineering course at Istanbul Bilgi University. Our team's goal was to build a university library reservation platform where students can book time slots at specific libraries, with built-in validation and conflict handling.
+This is a full-stack web application developed for the CMPE331-Software Engineering course at Istanbul Bilgi University. Our team's goal was to build a university library reservation platform where students can book time slots at specific libraries, with built-in validation and conflict handling.
 
 > This was a group project developed by;  
 > Ece Doğa Gül, Cem Akçiçek, Berkay Özdelice, Muhammed Ali Akdoğan, and Emirhan İnan.
